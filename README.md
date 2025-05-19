@@ -1,7 +1,7 @@
 - 👋 Selam,I am Efe
 - 👀 I’m interested in Games,Developing, new things etc.
 - 🌱 I’m currently learning EVERYTHING
-- 📫 How to reach me efestezcan@gmail.com
+- 📫 How to reach me yusufefetezcan@gmail.com
 
 
 <!---
